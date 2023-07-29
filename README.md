@@ -2,6 +2,6 @@
 
 This project was done as a part of the academic course 19CSE301 - Computer Networks
 
-Contributors:
-Kaarthik R
+Contributors:<br>
+Kaarthik R<br>
 Rithuh Subhakkrith S
